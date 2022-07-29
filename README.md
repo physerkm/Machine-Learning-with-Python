@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python #
+# Machine Learning with Python #
 
 These notes contain machine learning with python in Turkish language.
 
